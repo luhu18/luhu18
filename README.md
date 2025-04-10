@@ -73,7 +73,7 @@
             <h3 align="center">Grid Landing Page</h3>
             <div align="center">
                 <a href="https://grid-landing-page-orcin.vercel.app/" target="_blank">
-                    <img src="./assets/grid-page.png" alt="Grid Landing Page" width="100%"/>
+                    <img src="https://raw.githubusercontent.com/luhu18/grid-landing-page/main/design/desktop-preview.jpg" alt="Grid Landing Page" width="100%"/>
                 </a>
                 <p>
                     <a href="https://github.com/luhu18/grid-landing-page" target="_blank">
