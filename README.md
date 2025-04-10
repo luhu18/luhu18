@@ -58,7 +58,7 @@
       <h3 align="center">Project 1</h3>
       <div align="center">
         <a href="PROJECT_URL" target="_blank">
-          <img src="https://dummyimage.com/600x400/000/fff&text=Project+1" alt="Project 1" width="100%"/>
+          <img src="./assets/huddle.png" alt="Project 1" width="100%"/>
         </a>
         <p>
           <a href="PROJECT_URL" target="_blank">
