@@ -55,37 +55,37 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Project 1</h3>
+      <h3 align="center">Huddle Landing Page</h3>
       <div align="center">
-        <a href="PROJECT_URL" target="_blank">
-          <img src="./assets/huddle.png" alt="Project 1" width="100%"/>
+        <a href="https://huddle-landing-page-ivory-beta.vercel.app/" target="_blank">
+          <img src="./assets/huddle-page.png" alt="Huddle Landing Page" width="100%"/>
         </a>
         <p>
-          <a href="PROJECT_URL" target="_blank">
+          <a href="https://github.com/luhu18/huddle-landing-page" target="_blank">
             <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" alt="Code"/>
           </a>
-          <a href="DEMO_URL" target="_blank">
+          <a href="https://huddle-landing-page-ivory-beta.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/Live-blueviolet?style=for-the-badge&logo=vercel" alt="Live"/>
           </a>
         </p>
-        <p><strong>HTML, CSS, JavaScript</strong> - Brief and engaging description of the project. Mention the technologies used and key features.</p>
+        <p><strong>HTML, CSS</strong> - A modern and responsive landing page for Huddle, featuring a clean design with CSS Flexbox layout. Implements mobile-first approach with elegant hover states and optimized images.</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Project 2</h3>
+      <h3 align="center">Grid Landing Page</h3>
       <div align="center">
-        <a href="PROJECT_URL" target="_blank">
-          <img src="https://dummyimage.com/600x400/000/fff&text=Project+2" alt="Project 2" width="100%"/>
+        <a href="https://grid-landing-page-orcin.vercel.app/" target="_blank">
+          <img src="./assets/grid-page.png" alt="Grid Landing Page" width="100%"/>
         </a>
         <p>
-          <a href="PROJECT_URL" target="_blank">
+          <a href="https://github.com/luhu18/grid-landing-page" target="_blank">
             <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" alt="Code"/>
           </a>
-          <a href="DEMO_URL" target="_blank">
+          <a href="https://grid-landing-page-orcin.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/Live-blueviolet?style=for-the-badge&logo=vercel" alt="Live"/>
           </a>
         </p>
-        <p><strong>HTML, CSS, JavaScript</strong> - Brief and engaging description of the project. Mention the technologies used and key features.</p>
+        <p><strong>HTML, CSS Grid</strong> - A responsive landing page showcasing advanced CSS Grid implementation. Features a modern card layout with dynamic grid areas and responsive design patterns.</p>
       </div>
     </td>
   </tr>
