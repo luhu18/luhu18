@@ -61,7 +61,7 @@
           <img src="https://dummyimage.com/600x400/000/fff&text=Project+1" alt="Project 1" width="100%"/>
         </a>
         <p>
-          <a href="https://fylo-landing-page-jet.vercel.app/" target="_blank">
+          <a href="" target="_blank">
             <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" alt="Code"/>
           </a>
           <a href="https://huddle-landing-page-ivory-beta.vercel.app/" target="_blank">
@@ -78,10 +78,10 @@
           <img src="https://dummyimage.com/600x400/000/fff&text=Project+2" alt="Project 2" width="100%"/>
         </a>
         <p>
-          <a href="PROJECT_URL" target="_blank">
+          <a href="PROJECT_U" target="_blank">
             <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" alt="Code"/>
           </a>
-          <a href="DEMO_URL" target="_blank">
+          <a href="https://fylo-landing-page-jet.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/Live-blueviolet?style=for-the-badge&logo=vercel" alt="Live"/>
           </a>
         </p>
