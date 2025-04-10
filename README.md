@@ -92,7 +92,9 @@
 ##   🌱 Learning Journey
 
 <div align="center">
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luhu18&theme=tokyonight)](https://git.io/streak-stats)
+    <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=luhu18&theme=tokyonight" alt="GitHub Streak"/>
+    </a>
 </div>
 
 -   Currently focusing on strengthening my JavaScript fundamentals
@@ -103,14 +105,18 @@
 ##   📊 GitHub Activity
 
 <div align="center">
-    ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luhu18&theme=github)
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=luhu18&theme=github" alt="Activity Graph"/>
 </div>
 
 ##   📫 Connect with Me
 
 <div align="center">
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucien-hussein-4878052b6/)
-    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:husseinlucien7@gmail.com)
+    <a href="https://www.linkedin.com/in/lucien-hussein-4878052b6/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:husseinlucien7@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
 </div>
 
 ---
