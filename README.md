@@ -50,44 +50,20 @@
 
 ##   📂 Projects
 
-<table>
-    <tr>
-        <td width="50%">
-            <h3 align="center">Huddle Landing Page</h3>
-            <div align="center">
-                <a href="https://huddle-landing-page-ivory-beta.vercel.app/" target="_blank">
-                    <img src="./assets/huddle-page.png" alt="Huddle Landing Page" width="100%"/>
-                </a>
-                <p>
-                    <a href="https://github.com/luhu18/huddle-landing-page" target="_blank">
-                        <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" alt="Code"/>
-                    </a>
-                    <a href="https://huddle-landing-page-ivory-beta.vercel.app/" target="_blank">
-                        <img src="https://img.shields.io/badge/Live-blueviolet?style=for-the-badge&logo=vercel" alt="Live"/>
-                    </a>
-                </p>
-                <p><strong>HTML, CSS</strong> - A modern and responsive landing page for Huddle, featuring a clean design with CSS Flexbox layout. Implements mobile-first approach with elegant hover states and optimized images.</p>
-            </div>
-        </td>
-        <td width="50%">
-            <h3 align="center">Grid Landing Page</h3>
-            <div align="center">
-                <a href="https://grid-landing-page-orcin.vercel.app/" target="_blank">
-                    <img src="https://raw.githubusercontent.com/luhu18/grid-landing-page/main/design/desktop-preview.jpg" alt="Grid Landing Page" width="100%"/>
-                </a>
-                <p>
-                    <a href="https://github.com/luhu18/grid-landing-page" target="_blank">
-                        <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" alt="Code"/>
-                    </a>
-                    <a href="https://grid-landing-page-orcin.vercel.app/" target="_blank">
-                        <img src="https://img.shields.io/badge/Live-blueviolet?style=for-the-badge&logo=vercel" alt="Live"/>
-                    </a>
-                </p>
-                <p><strong>HTML, CSS Grid</strong> - A responsive landing page showcasing advanced CSS Grid implementation. Features a modern card layout with dynamic grid areas and responsive design patterns.</p>
-            </div>
-        </td>
-    </tr>
-</table>
+<div align="center">
+  <h3>Grid Landing Page</h3>
+  <a href="https://grid-landing-page-orcin.vercel.app/" target="_blank">
+    <img src="./assets/grid-landing.png" width="100%" alt="Grid Landing Page Preview"/>
+  </a>
+  <p>
+    <a href="https://github.com/luhu18/grid-landing-page" target="_blank">
+      <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" alt="GitHub Repository"/>
+    </a>
+    <a href="https://grid-landing-page-orcin.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live-blueviolet?style=for-the-badge&logo=vercel" alt="Live Preview"/>
+    </a>
+  </p>
+</div>
 
 ##   🌱 Learning Journey
 
