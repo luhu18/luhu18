@@ -53,7 +53,7 @@
 <div align="center">
   <h3>Huddle Landing Page</h3>
   <a href="https://huddle-landing-page-ivory-beta.vercel.app/" target="_blank">
-    <img src="./assets/huddle-landing.png" width="100%" alt="Huddle Landing Page Preview"/>
+    <img src="./assets/huddle-page.png" width="100%" alt="Huddle Landing Page Preview"/>
   </a>
   <p>
     <a href="https://github.com/luhu18/huddle-landing-page" target="_blank">
@@ -79,7 +79,7 @@
 
   <h3>Fylo Landing Page</h3>
   <a href="https://fylo-landing-page-jet.vercel.app/" target="_blank">
-    <img src="./assets/fylo-landing.png" width="100%" alt="Fylo Landing Page Preview"/>
+    <img src="./assets/fylo-pages.png" width="100%" alt="Fylo Landing Page Preview"/>
   </a>
   <p>
     <a href="https://github.com/luhu18/fylo-landing-page" target="_blank">
