@@ -51,6 +51,19 @@
 ##   📂 Projects
 
 <div align="center">
+  <h3>Huddle Landing Page</h3>
+  <a href="https://huddle-landing-page-ivory-beta.vercel.app/" target="_blank">
+    <img src="./assets/huddle-landing.png" width="100%" alt="Huddle Landing Page Preview"/>
+  </a>
+  <p>
+    <a href="https://github.com/luhu18/huddle-landing-page" target="_blank">
+      <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" alt="GitHub Repository"/>
+    </a>
+    <a href="https://huddle-landing-page-ivory-beta.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live-blueviolet?style=for-the-badge&logo=vercel" alt="Live Preview"/>
+    </a>
+  </p>
+
   <h3>Grid Landing Page</h3>
   <a href="https://grid-landing-page-orcin.vercel.app/" target="_blank">
     <img src="./assets/grid-landing.png" width="100%" alt="Grid Landing Page Preview"/>
@@ -60,6 +73,19 @@
       <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" alt="GitHub Repository"/>
     </a>
     <a href="https://grid-landing-page-orcin.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live-blueviolet?style=for-the-badge&logo=vercel" alt="Live Preview"/>
+    </a>
+  </p>
+
+  <h3>Fylo Landing Page</h3>
+  <a href="https://fylo-landing-page-jet.vercel.app/" target="_blank">
+    <img src="./assets/fylo-landing.png" width="100%" alt="Fylo Landing Page Preview"/>
+  </a>
+  <p>
+    <a href="https://github.com/luhu18/fylo-landing-page" target="_blank">
+      <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" alt="GitHub Repository"/>
+    </a>
+    <a href="https://fylo-landing-page-jet.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Live-blueviolet?style=for-the-badge&logo=vercel" alt="Live Preview"/>
     </a>
   </p>
