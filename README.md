@@ -48,47 +48,52 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </div>
 
-##   📂 Projects
-
-<div align="center">
-  <h3>Huddle Landing Page</h3>
-  <a href="https://huddle-landing-page-ivory-beta.vercel.app/" target="_blank">
-    <img src="./assets/huddle-page.png" width="100%" alt="Huddle Landing Page Preview"/>
-  </a>
-  <p>
-    <a href="https://github.com/luhu18/huddle-landing-page" target="_blank">
-      <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" alt="GitHub Repository"/>
-    </a>
+##   📂 Project
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 0 auto; max-width: 1200px;">
+  <div>
+    <h3>Huddle Landing Page</h3>
     <a href="https://huddle-landing-page-ivory-beta.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Live-blueviolet?style=for-the-badge&logo=vercel" alt="Live Preview"/>
+      <img src="./assets/huddle-page.png" width="100%" alt="Huddle Landing Page Preview"/>
     </a>
-  </p>
+    <p>
+      <a href="https://github.com/luhu18/huddle-landing-page" target="_blank">
+        <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" alt="GitHub Repository"/>
+      </a>
+      <a href="https://huddle-landing-page-ivory-beta.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live-blueviolet?style=for-the-badge&logo=vercel" alt="Live Preview"/>
+      </a>
+    </p>
+  </div>
 
-  <h3>Grid Landing Page</h3>
-  <a href="https://grid-landing-page-orcin.vercel.app/" target="_blank">
-    <img src="./assets/grid-landing.png" width="100%" alt="Grid Landing Page Preview"/>
-  </a>
-  <p>
-    <a href="https://github.com/luhu18/grid-landing-page" target="_blank">
-      <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" alt="GitHub Repository"/>
-    </a>
+  <div>
+    <h3>Grid Landing Page</h3>
     <a href="https://grid-landing-page-orcin.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Live-blueviolet?style=for-the-badge&logo=vercel" alt="Live Preview"/>
+      <img src="./assets/grid-landing.png" width="100%" alt="Grid Landing Page Preview"/>
     </a>
-  </p>
+    <p>
+      <a href="https://github.com/luhu18/grid-landing-page" target="_blank">
+        <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" alt="GitHub Repository"/>
+      </a>
+      <a href="https://grid-landing-page-orcin.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live-blueviolet?style=for-the-badge&logo=vercel" alt="Live Preview"/>
+      </a>
+    </p>
+  </div>
 
-  <h3>Fylo Landing Page</h3>
-  <a href="https://fylo-landing-page-jet.vercel.app/" target="_blank">
-    <img src="./assets/fylo-pages.png" width="100%" alt="Fylo Landing Page Preview"/>
-  </a>
-  <p>
-    <a href="https://github.com/luhu18/fylo-landing-page" target="_blank">
-      <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" alt="GitHub Repository"/>
-    </a>
+  <div>
+    <h3>Fylo Landing Page</h3>
     <a href="https://fylo-landing-page-jet.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Live-blueviolet?style=for-the-badge&logo=vercel" alt="Live Preview"/>
+      <img src="./assets/fylo-pages.png" width="100%" alt="Fylo Landing Page Preview"/>
     </a>
-  </p>
+    <p>
+      <a href="https://github.com/luhu18/fylo-landing-page" target="_blank">
+        <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" alt="GitHub Repository"/>
+      </a>
+      <a href="https://fylo-landing-page-jet.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live-blueviolet?style=for-the-badge&logo=vercel" alt="Live Preview"/>
+      </a>
+    </p>
+  </div>
 </div>
 
 ##   🌱 Learning Journey
